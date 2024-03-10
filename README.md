@@ -1,10 +1,10 @@
-Certainly! Here's a sample README file for the provided code:
-
----
-
 # Watermark and Upload Images to Google Drive
 
 This Python script processes a list of image URLs from a CSV file, adds watermarks to the images, resizes them, and then uploads the watermarked images to Google Drive. It also stores the original and watermarked image URLs in a CSV file.
+
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Watermark-Uploader.png)](https://drive.google.com/file/d/1_0fjYa_iLsTgU3-D4LtjH4hobgMRv4bV/view?usp=drive_link)
 
 ## Prerequisites
 
