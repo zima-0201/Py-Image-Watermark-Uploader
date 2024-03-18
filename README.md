@@ -4,7 +4,7 @@ This Python script processes a list of image URLs from a CSV file, adds watermar
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Watermark-Uploader.png)](https://drive.google.com/file/d/1_0fjYa_iLsTgU3-D4LtjH4hobgMRv4bV/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Watermark-Uploader.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Image-Watermark-Uploader.mp4)
 
 ## Prerequisites
 
